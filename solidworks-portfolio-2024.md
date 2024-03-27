@@ -16,10 +16,11 @@ With a background in electrical engineering, I have used SOLIDWORKS to model a v
 
 # Certifications
 I have obtained the following CAD certifications:
-1. CSWA (Certified SOLIDWORKS Associate)
-   test
-2. CSWP Prep (SolidProfessor learning course)
-   rwt32
+## CSWA (Certified SOLIDWORKS Associate)
+
+
+## Other
+I have also completed the CSWP Prep training course through SolidProfessor. You can view my certificate here:
 
 
 # Design for manufacture
