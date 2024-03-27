@@ -18,9 +18,9 @@ With a background in electrical engineering, I have used SOLIDWORKS to model a v
 I have obtained the following CAD certifications:
 ## CSWA (Certified SOLIDWORKS Associate)
 ![CSWA certificate issued to Alex Neiman](https://github.com/neiman3/portfolio-images/blob/c5ffe8c8dfc4957241d76ea3cde77cfaa2c5f0a9/images/cert/alexander-neiman-cswa-cert.jpg)
-
-## Other
-I have also completed the CSWP Prep training course through SolidProfessor. You can view my certificate here:
+I completed the official Certified SOLIDWORKS Associate (CSWA) exam through SOLIDWORKS. You can view my certificate here: [Official Certificate - Certified SOLIDWORKS Associate (CSWA)](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-SP7NYE95BF)
+## Other trainings
+I have also completed the CSWP Prep training course through SolidProfessor. You can view my certificate here: [SolidProfessor Certificate - Certified SOLIDWORKS Professional (CSWP) Prep](https://plt.solidprofessor.com/certificates/9f8f22dc-9425-4219-9449-2603a5e4146f)
 
 
 # Design for manufacture
